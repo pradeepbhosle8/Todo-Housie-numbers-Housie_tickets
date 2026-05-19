@@ -1,0 +1,70 @@
+{
+  "tasks": [
+    {
+      "task": "dssadsadsadsa testing aLDakdnj dkldasaljfba",
+      "completed": true,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "task": "Integrate JSON API",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "task": "Implement Routing",
+      "completed": true
+    },
+    {
+      "id": "4",
+      "task": "Add Toast Notifications",
+      "completed": true
+    },
+    {
+      "id": "5",
+      "task": "Style with Tailwind CSS",
+      "completed": true
+    },
+    {
+      "id": "nVkoJ2161tc",
+      "task": "Hello this is new Tasks for testing",
+      "completed": true
+    },
+    {
+      "id": "_cVW5Vd2VFI",
+      "task": "New task",
+      "completed": true
+    },
+    {
+      "id": "gqJWu5ezQQM",
+      "task": "dsadsad saddas",
+      "completed": true
+    },
+    {
+      "id": "ggshAARr8xQ",
+      "task": "dsadsa dsdsadsad dsadsad",
+      "completed": true
+    },
+    {
+      "id": "pMYCsKie5GU",
+      "task": "sdadas dsadasd",
+      "completed": true
+    },
+    {
+      "id": "0_Lmm4M3WOM",
+      "task": "jvshkvdhsvdsa dsac sa asdsads",
+      "completed": false
+    },
+    {
+      "id": "xBAYB99KVLo",
+      "task": "testing 123",
+      "completed": false
+    },
+    {
+      "id": "sjO45MIhilo",
+      "task": "JKDKSABDSA DSAJKDKJSAD",
+      "completed": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
