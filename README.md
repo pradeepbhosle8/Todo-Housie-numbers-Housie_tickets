@@ -1,2 +1,2 @@
 ## Image
-(../public/localhost_5173_.png "This is a sample image.")
+(../../public/localhost_5173_.png "This is a sample image.")
