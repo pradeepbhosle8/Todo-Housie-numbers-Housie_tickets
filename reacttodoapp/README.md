@@ -22,6 +22,6 @@ npm install
 npx json-server --port 3001 --watch
 ```
 ## Images
-(/public/localhost_5173_.png "This is a TodoChecklist.")
-(/public/localhost_5173_ Housie.png "This is a TodoChecklist.")
-(/public/localhost_5173_ (1).png "This is a TodoChecklist.")
+(public/localhost_5173_.png "This is a TodoChecklist.")
+(public/localhost_5173_ Housie.png "This is a TodoChecklist.")
+(public/localhost_5173_ (1).png "This is a TodoChecklist.")
